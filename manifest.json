@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Font Finder by mmirzafahlefi",
-  "description": "A simple extension to search for font types",
+  "name": "Font Finder",
+  "description": "A simple extension to search for font types by mmirzafahlefi",
   "version": "1.0",
   "browser_action": {
     "default_icon": "icon.png",
