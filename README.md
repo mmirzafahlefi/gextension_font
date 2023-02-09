@@ -1,2 +1,2 @@
 # gextension_font
-Created with CodeSandbox
+Google extension to search for the type of font used on the website
